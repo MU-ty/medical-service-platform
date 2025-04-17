@@ -64,6 +64,8 @@ Feel free to fork the repository and submit pull requests for any improvements o
 ---
 
 ## Structure
+
+```
 medical-service-platform-main/
 ├── intro.html        
 ├── index.html        
@@ -85,3 +87,5 @@ medical-service-platform-main/
 │   ├── css/
 │   └── js/
 └── [其他可能的资源文件夹]
+```
+
