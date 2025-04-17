@@ -63,4 +63,25 @@ Feel free to fork the repository and submit pull requests for any improvements o
 
 ---
 
-
+## Structure
+medical-service-platform-main/
+├── intro.html        
+├── index.html        
+├── application.html
+├── about.html
+├── service.html
+├── service_app.html
+├── contact.html
+├── ifteam.html
+├── blog-classic.html
+├── project-details1.html
+├── assets/
+│   ├── imgs/
+│   │   ├── logo-light.png
+│   │   ├── works/
+│   │   │   └── full/
+│   │   │       ├── 1.jpg
+│   │   │       └── 2.jpg
+│   ├── css/
+│   └── js/
+└── [其他可能的资源文件夹]
